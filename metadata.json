@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Integrativa",
+  "description": "Sistema completo para gerenciamento de clínicas de terapias alternativas, incluindo agenda inteligente, prontuário com IA, controle financeiro e notificações simuladas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
